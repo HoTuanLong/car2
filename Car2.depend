@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1556258475 source:c:\users\acer\desktop\code\car2\main.cpp
+	<SDL.h>
+	<bits/stdc++.h>
+	<fstream>
+	<SDL_image.h>
+	<ctime>
+	<SDL_ttf.h>
+	<string>
+	<sstream>
+	<SDL_mixer.h>
+
+1556258475 source:d:\learn\code\car2\main.cpp
+	<SDL.h>
+	<bits/stdc++.h>
+	<fstream>
+	<SDL_image.h>
+	<ctime>
+	<SDL_ttf.h>
+	<string>
+	<sstream>
+	<SDL_mixer.h>
+
